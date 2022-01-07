@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nad_certus.mk
+    $(LOCAL_DIR)/cherish_certus.mk
 
 COMMON_LUNCH_CHOICES := \
-    nad_certus-user \
-    nad_certus-userdebug \
-    nad_certus-eng
+    cherish_certus-user \
+    cherish_certus-userdebug \
+    cherish_certus-eng
